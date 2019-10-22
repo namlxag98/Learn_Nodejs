@@ -1,0 +1,14 @@
+{
+  "name": "firstnodejs",
+  "version": "1.0.0",
+  "description": "day la file nodejs dau tien",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NamNguyen",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
